@@ -1,0 +1,6 @@
+
+hardware/hexpansion-backups/*
+hardware/hexpansion-*
+hardware/hexpansion.xml
+hardware/hexpansion.csv
+hardware/*.lck
